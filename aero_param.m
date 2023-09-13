@@ -1,3 +1,6 @@
+%aero_param.
+%This file is associated with the similulink q_aero_thruster_model.mdl
+
 % Resistance
 Rm = 8.4;
 % Current-torque (N-m/A)
@@ -19,7 +22,7 @@ Jp = 7.2*10^(-6);
 % Equivalent moment of inertia (kg-m^2)
 Jeq = Jr + Jh + Jp;
 
+% 
+Kpulse = 7
 %
-Kpulse =
-%
-Vadd = 
+Vadd = 17
