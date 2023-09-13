@@ -20,6 +20,3 @@ Jp = 7.2*10^(-6);
 Jeq = Jr + Jh + Jp;
 
 %
-Kpulse =
-%
-Vadd = 
